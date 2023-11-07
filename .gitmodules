@@ -1,0 +1,3 @@
+[submodule "MediMinder"]
+	path = MediMinder
+	url = https://github.com/Tamanna130/MediMinder.git
